@@ -1,0 +1,16 @@
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Fibonacci Ortalama Hesaplama\obj\Debug\net5.0\Fibonacci Ortalama Hesaplama.csproj.AssemblyReference.cache
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Fibonacci Ortalama Hesaplama\obj\Debug\net5.0\Fibonacci Ortalama Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Fibonacci Ortalama Hesaplama\obj\Debug\net5.0\Fibonacci Ortalama Hesaplama.AssemblyInfoInputs.cache
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Fibonacci Ortalama Hesaplama\obj\Debug\net5.0\Fibonacci Ortalama Hesaplama.AssemblyInfo.cs
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Fibonacci Ortalama Hesaplama\obj\Debug\net5.0\Fibonacci Ortalama Hesaplama.csproj.CoreCompileInputs.cache
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Fibonacci Ortalama Hesaplama\bin\Debug\net5.0\Fibonacci Ortalama Hesaplama.exe
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Fibonacci Ortalama Hesaplama\bin\Debug\net5.0\Fibonacci Ortalama Hesaplama.deps.json
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Fibonacci Ortalama Hesaplama\bin\Debug\net5.0\Fibonacci Ortalama Hesaplama.runtimeconfig.json
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Fibonacci Ortalama Hesaplama\bin\Debug\net5.0\Fibonacci Ortalama Hesaplama.runtimeconfig.dev.json
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Fibonacci Ortalama Hesaplama\bin\Debug\net5.0\Fibonacci Ortalama Hesaplama.dll
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Fibonacci Ortalama Hesaplama\bin\Debug\net5.0\Fibonacci Ortalama Hesaplama.pdb
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Fibonacci Ortalama Hesaplama\obj\Debug\net5.0\Fibonacci Ortalama Hesaplama.dll
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Fibonacci Ortalama Hesaplama\obj\Debug\net5.0\refint\Fibonacci Ortalama Hesaplama.dll
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Fibonacci Ortalama Hesaplama\obj\Debug\net5.0\Fibonacci Ortalama Hesaplama.pdb
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Fibonacci Ortalama Hesaplama\obj\Debug\net5.0\Fibonacci Ortalama Hesaplama.genruntimeconfig.cache
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Fibonacci Ortalama Hesaplama\obj\Debug\net5.0\ref\Fibonacci Ortalama Hesaplama.dll
